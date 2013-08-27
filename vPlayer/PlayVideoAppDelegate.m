@@ -10,6 +10,18 @@
 
 @implementation PlayVideoAppDelegate
 
+////////////////////
+//#pragma mark - gesture delegate
+//// this allows you to dispatch touches
+//- (BOOL)gestureRecognizer:(UIGestureRecognizer *)gestureRecognizer shouldReceiveTouch:(UITouch *)touch {
+//    return YES;
+//}
+//// this enables you to handle multiple recognizers on single view
+//- (BOOL)gestureRecognizer:(UIGestureRecognizer *)gestureRecognizer shouldRecognizeSimultaneouslyWithGestureRecognizer:(UIGestureRecognizer *)otherGestureRecognizer {
+//    return YES;
+//}
+////////////////////
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.

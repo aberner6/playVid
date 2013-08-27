@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		24E0813317CC58A000D3F214 /* Sensor iPad VIDEO.mov in Resources */ = {isa = PBXBuildFile; fileRef = 24E0813217CC58A000D3F214 /* Sensor iPad VIDEO.mov */; };
 		24E0813517CC594400D3F214 /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 24E0813417CC594400D3F214 /* splash.png */; };
+		24E0813717CD314500D3F214 /* PlayVideoViewControllerTODAY in Resources */ = {isa = PBXBuildFile; fileRef = 24E0813617CD314500D3F214 /* PlayVideoViewControllerTODAY */; };
 		24EE925F17C963D800867E5B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24EE925E17C963D800867E5B /* UIKit.framework */; };
 		24EE926117C963D800867E5B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24EE926017C963D800867E5B /* Foundation.framework */; };
 		24EE926317C963D800867E5B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24EE926217C963D800867E5B /* CoreGraphics.framework */; };
@@ -27,6 +28,7 @@
 /* Begin PBXFileReference section */
 		24E0813217CC58A000D3F214 /* Sensor iPad VIDEO.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Sensor iPad VIDEO.mov"; sourceTree = "<group>"; };
 		24E0813417CC594400D3F214 /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash.png; sourceTree = "<group>"; };
+		24E0813617CD314500D3F214 /* PlayVideoViewControllerTODAY */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = PlayVideoViewControllerTODAY; path = "../../WORKS/these work/PlayVideoViewControllerTODAY"; sourceTree = "<group>"; };
 		24EE925B17C963D800867E5B /* vPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = vPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		24EE925E17C963D800867E5B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		24EE926017C963D800867E5B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -101,6 +103,7 @@
 				24EE927617C963D800867E5B /* MainStoryboard.storyboard */,
 				24EE927917C963D800867E5B /* PlayVideoViewController.h */,
 				24EE927A17C963D800867E5B /* PlayVideoViewController.m */,
+				24E0813617CD314500D3F214 /* PlayVideoViewControllerTODAY */,
 				24EE926517C963D800867E5B /* Supporting Files */,
 			);
 			path = vPlayer;
@@ -180,6 +183,7 @@
 				24EE928417C9668100867E5B /* Movie.m4v in Resources */,
 				24E0813317CC58A000D3F214 /* Sensor iPad VIDEO.mov in Resources */,
 				24E0813517CC594400D3F214 /* splash.png in Resources */,
+				24E0813717CD314500D3F214 /* PlayVideoViewControllerTODAY in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
